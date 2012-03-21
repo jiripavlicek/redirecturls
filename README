@@ -45,3 +45,8 @@ Example:
 Tested od MODX revolution 2.2.1-dev
 
 Events: OnPageNotFound
+
+TODO:
+- test with other MODX Revo versions
+- test on site placed into directory (tested only on web placed in a root directory)
+- make package for Revo package manager
