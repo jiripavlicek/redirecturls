@@ -55,7 +55,6 @@
  *
  * @package redirecturls
  *
- * test pokusný, prosím později smazat
  */
 
 global $modx;
